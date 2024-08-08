@@ -1,0 +1,1 @@
+Este repositorio recoge parte del material docente que se emplea en las asignaturas de Teoría de Circuitos impartidas en los grados de la [[https://www.uclm.es/albacete/industriales][ETSIIAB]] - [[http://www.uclm.es/][UCLM]].
