@@ -1,1 +1,1 @@
-Este repositorio recoge parte del material docente que se emplea en la asignatura de Proyectos en la Ingeniería impartida en los grados de la https://www.uclm.es/albacete/industrialesETSIIAB - http://www.uclm.es/UCLM.
+Este repositorio recoge parte del material docente que se emplea en las asignaturas de Proyectos en la Ingeniería y Dirección Integrada de Proyectos, impartidas en los grados (GIE, GIM, GIEIA) y en el máster (MUII), respectivamente,  de la https://www.uclm.es/albacete/industrialesETSIIAB - http://www.uclm.es/UCLM
